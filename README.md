@@ -2,24 +2,25 @@
 Command line game using python.
 
 
-BEFORE RUNNING GAME REQUIRED MODULES TO INSTALL:
+# BEFORE RUNNING GAME REQUIRED MODULES TO INSTALL:
 
-pip install os-sys
-pip install times
-pip install random2
+`pip install os-sys`
+`pip install times`
+`pip install random2`
 
 
-  __________     ____  __  ___   __   _________    __  _________
+  __________     ____  __  ___   __   _________    __  _________  
  /_  __/ __ \   / __ \/ / / / | / /  / ____/   |  /  |/  / ____/
   / / / / / /  / /_/ / / / /  |/ /  / / __/ /| | / /|_/ / __/   
  / / / /_/ /  / _, _/ /_/ / /|  /  / /_/ / ___ |/ /  / / /___   
 /_/  \____/  /_/ |_|\____/_/ |_/   \____/_/  |_/_/  /_/_____/   
-                                                                
    
-   
-   
+
+
    STEP 1 : OPEN TERMINAL AND CHANGE DIRECTORY TO THE FILE 
+
    STEP 2 : TYPE BELOW COMMAND
+
             `python rps.py`
   
    STEP 3 : ENJOY
