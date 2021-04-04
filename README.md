@@ -25,7 +25,7 @@
 
   * STEP 2 : TYPE BELOW COMMAND
 
-            `python rps.py`
+            `python rpsgame.py`
   
   * STEP 3 : ENJOY
                                                                                          
